@@ -1,0 +1,5 @@
+/models/
+/restapi/*
+.idea
+
+!restapi/configure_nas_authentication_service.go
